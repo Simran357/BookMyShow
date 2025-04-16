@@ -1,0 +1,6 @@
+
+https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=30.3398,76.3869&radius=5000&type=movie_theater&key=AIzaSyAzuoIKefkbjL5cDqZ6MAYU4gTzw26i6Ls
+
+
+
+b4a3817300a54342b5048271e7f08728
